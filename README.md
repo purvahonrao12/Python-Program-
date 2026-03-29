@@ -14,5 +14,3 @@ This is my first Python project.
 2. Run the file using:
 
 python calculator.py
-
-Updated README
